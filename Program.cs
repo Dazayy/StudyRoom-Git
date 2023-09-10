@@ -1,5 +1,6 @@
 ﻿
-using System.Net;
+using System;
+using System.Thread;
 
 class Program
 {
@@ -16,6 +17,11 @@ class Program
         {
             System.Console.WriteLine(word);
         }
+    }
+
+    public static int Pow(int a)
+    {
+        return a * a;
     }
 }
 

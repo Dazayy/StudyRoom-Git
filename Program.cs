@@ -1,27 +1,32 @@
 ﻿
 using System;
+using System.Diagnostics.Contracts;
 
 
 class Program
 {
     public static void Main(string[] args)
     {
-
-        SayWord("Hello");
-
+        Person pers = new Person("Sam", 19);
+        pers.ShowInfo();
     }
+}
 
-    public static void SayWord(string word)
+
+class Person
+{
+    public string Name { get; set; }
+    public int Age { get; set; }
+
+    public Person(string name, int age)
     {
-        for (int i = 0; i < 10; i++)
-        {
-            System.Console.WriteLine(word);
-        }
+        Name = name;
+        Age = age;
+    }
+    public void ShowInfo()
+    {
+        System.Console.WriteLine($"Name:{Name}\tAge:{Age}");
     }
 
-    public static int Pow(int a)
-    {
-        return a * a;
-    }
 }
 

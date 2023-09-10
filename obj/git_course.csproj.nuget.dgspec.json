@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\Desktop\\git_course\\git_course.csproj": {}
+    "c:\\Users\\admin\\Desktop\\git_course\\git_course.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\Desktop\\git_course\\git_course.csproj": {
+    "c:\\Users\\admin\\Desktop\\git_course\\git_course.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Desktop\\git_course\\git_course.csproj",
+        "projectUniqueName": "c:\\Users\\admin\\Desktop\\git_course\\git_course.csproj",
         "projectName": "git_course",
-        "projectPath": "C:\\Users\\admin\\Desktop\\git_course\\git_course.csproj",
+        "projectPath": "c:\\Users\\admin\\Desktop\\git_course\\git_course.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Desktop\\git_course\\obj\\",
+        "outputPath": "c:\\Users\\admin\\Desktop\\git_course\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Users\\admin\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder",

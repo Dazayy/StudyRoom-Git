@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\git_course\bin\Debug\net7.0\git_course.exe
+C:\Users\admin\Desktop\git_course\bin\Debug\net7.0\git_course.deps.json
+C:\Users\admin\Desktop\git_course\bin\Debug\net7.0\git_course.runtimeconfig.json
+C:\Users\admin\Desktop\git_course\bin\Debug\net7.0\git_course.dll
+C:\Users\admin\Desktop\git_course\bin\Debug\net7.0\git_course.pdb
+C:\Users\admin\Desktop\git_course\obj\Debug\net7.0\git_course.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\git_course\obj\Debug\net7.0\git_course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\git_course\obj\Debug\net7.0\git_course.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\git_course\obj\Debug\net7.0\git_course.AssemblyInfo.cs
+C:\Users\admin\Desktop\git_course\obj\Debug\net7.0\git_course.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\git_course\obj\Debug\net7.0\git_course.dll
+C:\Users\admin\Desktop\git_course\obj\Debug\net7.0\refint\git_course.dll
+C:\Users\admin\Desktop\git_course\obj\Debug\net7.0\git_course.pdb
+C:\Users\admin\Desktop\git_course\obj\Debug\net7.0\git_course.genruntimeconfig.cache
+C:\Users\admin\Desktop\git_course\obj\Debug\net7.0\ref\git_course.dll
